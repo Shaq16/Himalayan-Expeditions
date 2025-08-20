@@ -1,4 +1,5 @@
 🏔️ HIMALAYAN EXPEDITIONS - Data Analysis
+
 📌 Project Overview
 
 This project is a data analytics case study on Himalayan expeditions, focusing on trends, patterns, and insights derived from expedition datasets. Using Tableau, I built interactive dashboards and visualizations to explore aspects such as:
